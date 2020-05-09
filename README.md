@@ -3,5 +3,5 @@
  - счетчик очков
  - счетчик длины змейки
 # Запуск игры 
-1) Перейдите в папку \out\artifacts\Snake_jar\  
+1) Перейдите в папку Snake\out\artifacts\Snake_jar\  
 2) Запустите файл Snake.jar  
